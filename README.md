@@ -1,1 +1,1 @@
-# Temperature-Converter  https://kiran8924.github.io/Temperature-Converter/
+# Temperature-Converter Temperature Converter: is a simple project that converts temperature from a Celcius unit to Fahrenheit and vice versa. TECH : HTML , CSS , JavaScript . tap here for quick preview at my project. https://kiran8924.github.io/Temperature-Converter/
